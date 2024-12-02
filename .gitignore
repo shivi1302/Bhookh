@@ -78,4 +78,4 @@ android/.gradle/
 android/app/build/
 ios/Pods/
 *.log
-*.envs
+*.env
